@@ -1,0 +1,7 @@
+C:\Users\diyah\Downloads\Delegation_Logger_Example\Delegation_Logger_Example\bin\Debug\Delegation_Logger_Example.exe.config
+C:\Users\diyah\Downloads\Delegation_Logger_Example\Delegation_Logger_Example\bin\Debug\Delegation_Logger_Example.exe
+C:\Users\diyah\Downloads\Delegation_Logger_Example\Delegation_Logger_Example\bin\Debug\Delegation_Logger_Example.pdb
+C:\Users\diyah\Downloads\Delegation_Logger_Example\Delegation_Logger_Example\obj\Debug\Delegation_Logger_Example.csproj.AssemblyReference.cache
+C:\Users\diyah\Downloads\Delegation_Logger_Example\Delegation_Logger_Example\obj\Debug\Delegation_Logger_Example.csproj.CoreCompileInputs.cache
+C:\Users\diyah\Downloads\Delegation_Logger_Example\Delegation_Logger_Example\obj\Debug\Delegation_Logger_Example.exe
+C:\Users\diyah\Downloads\Delegation_Logger_Example\Delegation_Logger_Example\obj\Debug\Delegation_Logger_Example.pdb
