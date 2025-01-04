@@ -1,0 +1,7 @@
+C:\Users\diyah\Downloads\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\diyah\Downloads\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\diyah\Downloads\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\diyah\Downloads\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\diyah\Downloads\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\diyah\Downloads\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\diyah\Downloads\Reflection\Reflection\obj\Debug\Reflection.pdb
