@@ -1,0 +1,7 @@
+C:\Users\diyah\Downloads\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\diyah\Downloads\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\diyah\Downloads\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\diyah\Downloads\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\diyah\Downloads\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\diyah\Downloads\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\diyah\Downloads\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb
