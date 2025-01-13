@@ -1,0 +1,7 @@
+C:\Users\diyah\Downloads\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.exe.config
+C:\Users\diyah\Downloads\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.exe
+C:\Users\diyah\Downloads\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.pdb
+C:\Users\diyah\Downloads\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.csproj.AssemblyReference.cache
+C:\Users\diyah\Downloads\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.csproj.CoreCompileInputs.cache
+C:\Users\diyah\Downloads\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.exe
+C:\Users\diyah\Downloads\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.pdb
