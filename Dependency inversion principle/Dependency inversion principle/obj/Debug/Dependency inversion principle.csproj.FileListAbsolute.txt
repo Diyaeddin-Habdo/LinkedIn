@@ -1,0 +1,7 @@
+C:\Users\diyah\Downloads\Dependency inversion principle\Dependency inversion principle\bin\Debug\Dependency inversion principle.exe.config
+C:\Users\diyah\Downloads\Dependency inversion principle\Dependency inversion principle\bin\Debug\Dependency inversion principle.exe
+C:\Users\diyah\Downloads\Dependency inversion principle\Dependency inversion principle\bin\Debug\Dependency inversion principle.pdb
+C:\Users\diyah\Downloads\Dependency inversion principle\Dependency inversion principle\obj\Debug\Dependency inversion principle.csproj.AssemblyReference.cache
+C:\Users\diyah\Downloads\Dependency inversion principle\Dependency inversion principle\obj\Debug\Dependency inversion principle.csproj.CoreCompileInputs.cache
+C:\Users\diyah\Downloads\Dependency inversion principle\Dependency inversion principle\obj\Debug\Dependency inversion principle.exe
+C:\Users\diyah\Downloads\Dependency inversion principle\Dependency inversion principle\obj\Debug\Dependency inversion principle.pdb
